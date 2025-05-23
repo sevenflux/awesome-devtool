@@ -13,8 +13,10 @@
 ## 水龙头（Faucet）
 - [VitaFlux 社区水龙头](https://t.me/@sevenflux_faucet_bot)
 - Sepolia GCP Faucet
-- [sepoliafaucet.com](https://sepoliafaucet.com/)
 - [MetaMask Faucet 文档](https://docs.metamask.io/developer-tools/faucet)
+- [Alchemy Faucet (Amoy)](https://sepoliafaucet.com/)
+- [Infura Faucet (Amoy)](https://www.infura.io/faucet/sepolia)
+- [Chainlink Faucet (Amoy)](https://faucets.chain.link/amoy)
 
 ## 网页工具
 - Vitepress
@@ -29,6 +31,26 @@
 - [Infura](https://infura.io/)
 - [Chainlist](https://chainlist.org/)
 - [Ethereum Unit Converter](https://eth-converter.com/)：以太坊单位转换工具
+
+
+## 开发常用工具
+
+- [Ethereum Unit Converter](https://eth-converter.com/): 以太坊的单位转换工具，因为实际在 Solidity 中编程，默认的计量单位为 Wei, 与 ether 之间存在 10 ** 18 的换算，编程时不确定换算是否正确可以使用此工具进行核验
+- [OpenZeppelin官网](https://www.openzeppelin.com/)
+- [Alchemy](https://www.alchemy.com/): 在一定限额内免费的多条公链 API 的工具，同时也支持实时数据分析以及交易监听的，注册容易出现问题
+- [Infura](https://www.infura.io/zh): MetaMask 官方API
+
+## 智能合约安全审计比赛
+- [Code4rena](https://code4rena.com/): 可以方便的查看过往比赛的审计报告，数量很多，选择自己感兴趣的报告查看学习即可。同时也有不定期的公开审计比赛，没有什么门槛限制，有闲暇时间可以参与一下，看看自己的审计能力
+- [Immunefi](https://immunefi.com/): 审计比赛平台，同时也有一些合约安全审计的学习资料
+- [Sherlock](https://audits.sherlock.xyz/contests): 审计比赛平台,比赛也很多
+- [CodeHawks](https://codehawks.cyfrin.io/): Cyfrin 官方推出的审计平台，主要是以其过往的审计报告为主，赏金较少
+
+## Web3 招聘平台
+- ### [VitaFlux](https://t.me/+l4rd2K2W1ONlODk9)
+
+其他招聘平台
+- [WorkWork](https://platform.work-work.org/)
 
 ## IDE
 - Cursor
@@ -79,6 +101,14 @@
 - v0.ai
 - blot.new
 - lovable.ai
+
+## AI 助手
+  - [DeepSeek](https://chat.deepseek.com/)
+  - [ChatGPT](https://chat.openai.com/)
+  - [Bard](https://bard.google.com/)
+  - [claude.ai](https://claude.ai/)
+  - [Phind](https://www.phind.com/)
+  - [Grok](https://grok.com/)
 
 ## 浏览器插件
 
