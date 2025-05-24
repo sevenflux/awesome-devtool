@@ -37,15 +37,13 @@
 - [Infura](https://www.infura.io/zh): MetaMask 官方API
 
 ## 智能合约安全审计比赛
-- [Code4rena](https://code4rena.com/): 可以方便的查看过往比赛的审计报告，数量很多，选择自己感兴趣的报告查看学习即可。同时也有不定期的公开审计比赛，没有什么门槛限制，有闲暇时间可以参与一下，看看自己的审计能力
+- [Code4rena](https://code4rena.com/): 可以方便的查看过往比赛的审计报告，数量很多，同时也有不定期的公开审计比赛，没有什么门槛限制
 - [Immunefi](https://immunefi.com/): 审计比赛平台，同时也有一些合约安全审计的学习资料
 - [Sherlock](https://audits.sherlock.xyz/contests): 审计比赛平台,比赛也很多
 - [CodeHawks](https://codehawks.cyfrin.io/): Cyfrin 官方推出的审计平台，主要是以其过往的审计报告为主，赏金较少
 
 ## Web3 招聘平台
 - ### [VitaFlux](https://t.me/+l4rd2K2W1ONlODk9)
-
-其他招聘平台
 - [WorkWork](https://platform.work-work.org/)
 
 ## IDE
@@ -108,26 +106,60 @@
 
 ## 浏览器插件
 
-### Safari 插件
+- ### Safari 插件
 
-### Chrome 插件
-- YouTube Dual Subtitles：多语言字幕
-- YouTubeEnhancer：增强 YouTube 播放器功能
-- React Developer Tool：浏览器中使用 React 开发工具
-- Quick source viewer：源码格式化查看
-- IPFS Companion：去中心化存储，查看 IPFS 网页
-- AdGuard：去广告
-- MetaMask：钱包插件
-- Relingo：翻译插件
-- Dark Reader：网页配色
-- Gobal Speed：视频速度控制
-- 爱贝壳同步小组手：运营同步插件
+- ### Chrome 插件
+  - YouTube Dual Subtitles：多语言字幕
+  - YouTubeEnhancer：增强 YouTube 播放器功能
+  - React Developer Tool：浏览器中使用 React 开发工具
+  - Quick source viewer：源码格式化查看
+  - IPFS Companion：去中心化存储，查看 IPFS 网页
+  - AdGuard：去广告
+  - MetaMask：钱包插件
+  - Relingo：翻译插件
+  - Dark Reader：网页配色
+  - Gobal Speed：视频速度控制
+  - 爱贝壳同步小组手：运营同步插件
 
 ## 实用工具
 - PicGo：图床管理
 - BetterZip：压缩/解压
 - PotPlayer：视频播放
 - HandBrake：媒体工具
+
+## 黑客松平台汇总
+
+- [VitaFlux](https://t.me/+l4rd2K2W1ONlODk9)
+- [ETHGlobal](https://ethglobal.com/)
+- [Devpost](https://devpost.com/)
+- [DoraHacks](https://dorahacks.io/)
+- [Chainlink Hackathons](https://chain.link/hackathon)
+- [OpenBuild Challenges](https://openbuild.xyz/learn/challenges)
+- [Taikai Network](https://taikai.network/hackathons)
+- [Akindo](https://akindo.io/)
+- [Devfolio](https://devfolio.co/)
+- [HackQuest Hackathons](https://www.hackquest.io/zh-cn/hackathons)
+- [MoleDAO](https://moledao.io/#/gather)
+
+## 开发者社区
+
+- ### [VitaFlux](https://t.me/+l4rd2K2W1ONlODk9)
+- [Openbuild](https://space.bilibili.com/483336099)
+- [TinTinLand](https://space.bilibili.com/1152852334)
+- [Chainlink预言机](https://space.bilibili.com/482973600)
+- [DappLearning](https://space.bilibili.com/2145417872/)
+- [DoraHacks](https://space.bilibili.com/445312136/)
+- [登链社区](https://space.bilibili.com/581611011)
+- [HackQuest](www.hackquest.io)
+- [Rebase](https://space.bilibili.com/382886213) 
+
+## 面试题
+
+- [Web3 行业面试题集合（2025 年最新版）](https://github.com/sevenflux/roadmap-web3/blob/main)
+
+## 教程
+
+- [区块链行业从入门到实践教程 (2025 年 最新版)](https://github.com/sevenflux/roadmap-web3)
 
 ---
 
