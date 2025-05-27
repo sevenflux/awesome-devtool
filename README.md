@@ -7,7 +7,7 @@
 ## 域名工具
 
 ## 水龙头（Faucet）
-- [VitaFlux 社区水龙头](https://t.me/@sevenflux_faucet_bot)
+- [VitaFlux 社区水龙头](https://t.me/sevenflux_faucet_bot)
 - Sepolia GCP Faucet
 - [MetaMask Faucet 文档](https://docs.metamask.io/developer-tools/faucet)
 - [Alchemy Faucet (Amoy)](https://sepoliafaucet.com/)
